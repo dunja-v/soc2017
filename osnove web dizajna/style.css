@@ -1,0 +1,95 @@
+body {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/c5/9f/ea/c59fea384014ad0d27a47fa7d7d9e604.jpg");
+	background-attachment: fixed;
+}
+
+p, li, ol, ul{
+	font-family: Verdana;
+	font-size: 90%;
+}
+
+h2{
+	font-family: "Comic Sans MS";
+	text-decoration: underline;
+	Color: DodgerBlue;
+}
+.welcome {
+	/*background-color: Cyan;*/
+	width: 100%;
+	text-align: center;
+	font-family: Impact;
+	font-size: 2em;
+	color: LawnGreen;
+	z-index: 5;
+}
+.side{
+	width: 18%;
+	min-height: 30%;
+	min-width: 30px;
+	overflow: hidden;
+	background-color: rgba(0, 255, 213, 0.5);
+	Position: fixed;
+	color: Black;
+}
+#avatar{
+	display: inline-block;
+	width: 50%;
+	height: 50%;
+	position: relative;
+	left: 23%;
+}
+.content{
+	width: 100%;
+}
+.data{
+	position: relative;
+	background-color: LightGreen;
+	width: 70%;
+	left: 20%;
+}
+.edu, .extra{
+	display: inline-block;
+	position: relative;
+	width: 48%;
+
+}
+
+#fer{
+	display: inline-block;
+	width: 45%;
+	height: 45%;
+	position: relative;
+	vertical-align: middle;
+}
+
+.hobi{
+	display: inline-block;
+	position: relative;
+	width: 35%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.conclusion{
+	position: relative;
+	background-color: LightGreen;
+	width: 50%;
+	left: 30%;
+	text-align: center;
+}
+
+#kraj{
+	position: relative;
+	left: 45%;
+	height: 15em;
+	width: 20em;
+	border-radius: 100%;
+	
+}
+.video{
+	color: red;
+	font-size: 100%;
+	position: relative;
+	left: 2%;
+}
+}
