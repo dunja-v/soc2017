@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Operacijski sustav}{3}{0}{1}
+\beamer@sectionintoc {2}{Terminal}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Vrste su\IeC {\v c}elja}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Terminal}{7}{0}{2}
+\beamer@sectionintoc {3}{Direktoriji}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Direktoriji}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Datoteke}{12}{0}{3}
+\beamer@sectionintoc {4}{Osnovne naredbe}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Primjeri i zadaci}{15}{0}{4}
+\beamer@sectionintoc {5}{Upravljanje datotekama}{17}{0}{5}
+\beamer@sectionintoc {6}{Filteri, tokovi i cjevovodi}{19}{0}{6}
+\beamer@subsectionintoc {6}{1}{Preusmjeravanje}{21}{0}{6}
+\beamer@subsectionintoc {6}{2}{Primjeri i zadaci}{22}{0}{6}
+\beamer@sectionintoc {7}{Skripte}{24}{0}{7}
+\beamer@subsectionintoc {7}{1}{Primjeri i zadaci}{26}{0}{7}
+\beamer@sectionintoc {8}{Package Manager}{28}{0}{8}

@@ -1,0 +1,9 @@
+[    0.194294] vgaarb: setting as boot device: PCI:0000:00:02.0
+[    0.151278] ACPI : EC: EC description table is found, configuring boot EC
+[    0.099160] smpboot: Total of 8 processors activated (39907.88 BogoMIPS)
+[    0.074153] smpboot: CPU0: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz (family: 0x6, model: 0x3c, stepping: 0x3)
+[    0.033796] smpboot: Max logical packages: 2
+[    0.033795] smpboot: APIC(0) Converting physical 0 to logical package 0
+[    0.000000] smpboot: Allowing 8 CPUs, 0 hotplug CPUs
+[    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-83-generic root=UUID=2f9262a0-ce82-41d7-9f46-627b674092a9 ro quiet splash acpi_osi= vt.handoff=7
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-83-generic root=UUID=2f9262a0-ce82-41d7-9f46-627b674092a9 ro quiet splash acpi_osi= vt.handoff=7
